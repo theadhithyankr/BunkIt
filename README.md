@@ -1,4 +1,3 @@
-Great! Here's the updated `README.md` for **BunkIt**, including a **Vercel live demo link** section:
 
 ---
 
@@ -96,4 +95,3 @@ Let’s help students bunk smart 😎
 
 ---
 
-Let me know when your Vercel link is ready and I’ll plug it in directly! Want a badge or GIF demo too?
