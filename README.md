@@ -9,7 +9,7 @@
 
 ## 🌐 Live Demo
 
-👉 [Visit BunkIt on Vercel]([https://bunkit.vercel.app](https://bunk-it-adhithyans-projects-81268a7f.vercel.app/))  
+👉 [Visit BunkIt on Vercel](https://bunk-it-adhithyans-projects-81268a7f.vercel.app/)  
 
 ---
 
